@@ -10,6 +10,8 @@ const leapYears = function(year) {
     }
 };
 
+// solution ans is below
+// return year % 4 === 0 && (year % 100 !== 0 || year % 400 === 0);
 
 // let value = 1997;
 // if (value % 4 == 0 && (value % 100 != 0 && value % 400 == 0)) {
